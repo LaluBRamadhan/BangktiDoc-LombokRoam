@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MySubmission</string>
+    <string name="destination_name">Destinasi</string>
+    <string name="description">Deskripsi</string>
+    <string name="nama">Lalu Bagoes Putra Ramadhan</string>
+    <string name="email">a179bsy2343@bangkit.academy</string>
+    <string name="judultest">JudulTest</string>
+    <string name="deskripsitest">DeskripsiTest</string>
+
+    <string-array name="data_name">
+        <item>Gunung Rinjani</item>
+        <item>Air Terjun Benang Kelambu</item>
+        <item>Desa Sade</item>
+        <item>Pantai Pink</item>
+        <item>Selong Belanak</item>
+        <item>Bukit Selong</item>
+        <item>Pantai Tanjung Aan</item>
+        <item>Kepulauan Gili</item>
+        <item>Pantai Kura-kura</item>
+        <item>Tanjung Ringgit</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Gunung Rinjani adalah gunung yang berlokasi di Pulau Lombok, Nusa Tenggara Barat. Gunung yang merupakan gunung berapi kedua tertinggi di Indonesia dengan ketinggian 3.726 mdpl serta ini merupakan gunung favorit bagi pendaki Indonesia karena keindahan pemandangannya. Gunung ini merupakan bagian dari Taman Nasional Gunung Rinjani yang memiliki luas sekitar 41.330 ha dan ini akan diusulkan penambahannya sehingga menjadi 76.000 ha ke arah barat dan timur.</item>
+        <item>Air terjun benang kelambu merupakan wisata alam dan air terjun,yang terletak ujung utara kabupaten lombok tengah,dibawah kaki gn.rinjani. dari airport bisa di tempuh dalam waktu 60 menit dengan mobil dan 30 menit dengan sepeda motor.</item>
+        <item>Sade, sebuah dusun di Desa Rembitan, Pujut, Lombok Tengah, dikenal sebagai desa yang menjaga adat suku Sasak. Wisatawan sering mengunjungi Sade untuk melihat keunikan budaya suku Sasak. Desa ini telah dijadikan destinasi wisata oleh Dinas Pariwisata setempat. Meskipun terletak dekat jalan aspal, penduduknya tetap mempertahankan keaslian budaya Sasak, menjadikannya cerminan budaya asli Lombok.</item>
+        <item>Pantai Tangsi atau yang lebih dikenal dengan Pantai Pink dari Pulau Lombok terletak di desa Sekaroh, kecamatan Jerowaru, Kabupaten Lombok Timur adalah sebuah destinasi wisata pantai yang patut untuk dikunjungi karena keunikan pasir pantai yang berwarna pink.Pantai ini merupakan salah satu dari tujuh pantai di dunia yang memiliki pasir pantai berwarna pink, dan satu dari dua pantai di Indonesia yang memiliki pasir pantai berwarna pink.</item>
+        <item>Pantai Selong Belanak adalah pantai yang terletak di Lombok Tengah, Nusa Tenggara Barat. Pantai ini memiliki garis pantai yang panjang, pasir putih yang lembut, dan air laut yang jernih. Di bagian barat pantai, terdapat ombak yang besar yang cocok untuk berselancar. Di bagian belakang pantai, terdapat deretan rumah makan yang menyajikan kuliner khas bahari.</item>
+        <item>Bukit Selong adalah bukit yang terletak di Sembalun, Lombok Timur, Nusa Tenggara Barat. Bukit ini memiliki ketinggian 1.800 meter di atas permukaan laut dan menawarkan pemandangan alam yang indah, termasuk Gunung Rinjani, Bukit Pergasingan, dan hamparan sawah.</item>
+        <item>Pantai Tanjung Aan adalah pantai berpasir putih yang terletak di Mandalika, Lombok Tengah, Nusa Tenggara Barat. Pantai ini memiliki garis pantai yang panjang dan ombak yang tenang, sehingga cocok untuk berenang dan berselancar.</item>
+        <item>Kepulauan Gili adalah tiga pulau kecil yang terletak di lepas pantai Lombok, Indonesia. Kepulauan ini merupakan destinasi wisata populer bagi wisatawan yang ingin menikmati pemandangan alam yang indah dan aktivitas air seperti snorkeling dan diving.</item>
+        <item>Pantai Kura-kura adalah pantai yang terletak di Lombok Timur, Nusa Tenggara Barat. Pantai ini terkenal dengan hamparan pasir putih yang lembut dan air laut yang jernih. Pantai ini berjarak sekitar 100 kilometer dari Kota Mataram.</item>
+        <item>Tanjung Ringgit adalah pantai yang terletak di Lombok Timur, Nusa Tenggara Barat. Pantai ini terkenal dengan pemandangan alam yang indah, termasuk hamparan pasir putih yang lembut, air laut yang jernih, dan tebing-tebing karang yang menjulang tinggi. Pantai ini berjarak sekitar 3 jam dari Kota Mataram.</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Pulau Lombok, Nusa Tenggara Barat</item>
+        <item>Kabupaten Lombok Tengah, Nusa Tenggara Barat</item>
+        <item>Desa Rembitan, Pujut, Lombok Tengah, Nusa Tenggara Barat</item>
+        <item>Desa Sekaroh, kecamatan Jerowaru, Kabupaten Lombok Timur</item>
+        <item>Desa Selong Belanak, Lombok Tengah, Nusa Tenggara Barat</item>
+        <item>Sembalun, Lombok Timur, Nusa Tenggara Barat</item>
+        <item>Mandalika, Lombok Tengah, Nusa Tenggara Barat</item>
+        <item>Kabupaten Lombok Utara, Nusa Tenggara Barat</item>
+        <item>Kabupaten Lombok Timur, Nusa Tenggara Barat</item>
+        <item>Kabupaten Lombok Timur, Nusa Tenggara Barat</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+        <item>@drawable/img9</item>
+        <item>@drawable/img10</item>
+    </integer-array>
+</resources>
